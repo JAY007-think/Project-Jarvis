@@ -29,14 +29,19 @@ fetch latest news, and answer general questions using AI.
 
 ## 📂 Project Structure
 PROJECT-JARVIS/
-│
+
 ├── src/
-│ ├── main.py
-│ └── music_library.py
-│
+
+    └── main.py 
+ 
+    └── music_library.py
+ 
 ├── .env.example
+
 ├── .gitignore
+
 ├── requirements.txt
+
 ├── README.md
 
 
