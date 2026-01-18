@@ -4,7 +4,7 @@ import os
 import speech_recognition as sr
 import webbrowser
 import pyttsx3
-import src.music_library as music_library
+import music_library as music_library
 import os
 import requests
 from gtts import gTTS
