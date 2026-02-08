@@ -72,7 +72,7 @@ python src/main.py
 
 Jay Soni
 LinkedIn: https://www.linkedin.com/in/jay-soni-01a791261/
-GitHub: https://github.com/JAY007-think
+LeetCode: https://leetcode.com/u/ZysIunJ150/
 
 > This project was built as a learning exercise and enhanced with additional features.
 
