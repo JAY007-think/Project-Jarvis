@@ -1,4 +1,4 @@
-# 🤖 Project Jarvis – Python Voice Assistant
+# 🤖 Project Jarvis – Python Ai Powered Voice Assistant
 
 A Python-based virtual voice assistant inspired by Alexa & Google Assistant.  
 It can recognize voice commands, speak responses, open websites, play music,
@@ -29,14 +29,19 @@ fetch latest news, and answer general questions using AI.
 
 ## 📂 Project Structure
 PROJECT-JARVIS/
-│
+
 ├── src/
-│ ├── main.py
-│ └── music_library.py
-│
+
+    └── main.py 
+ 
+    └── music_library.py
+ 
 ├── .env.example
+
 ├── .gitignore
+
 ├── requirements.txt
+
 ├── README.md
 
 

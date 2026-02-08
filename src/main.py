@@ -14,7 +14,6 @@ import pygame
 r = sr.Recognizer()
 NewsApi = os.getenv("NEWS_API_KEY")
 
-
 # speak function
 def speak_old(text):
     engine = pyttsx3.init()
